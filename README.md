@@ -1,5 +1,5 @@
 
-# Olá, meu nome é Vinicius emoteacenar:
+# Olá, meu nome é Vinicius
 ### Sobre mim: 
 
  - Me chamo Vinicius, tenho 21 anos de idade e moro na cidade de São Paulo. 
