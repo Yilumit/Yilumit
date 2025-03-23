@@ -13,13 +13,11 @@
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yilumit&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Alguns pequenos projetos
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=ProjetoMedidorCaloricoAndroid&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/ProjetoMedidorCaloricoAndroid) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=Analise_de_Sentimento&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/Analise_de_Sentimento) |
+| --- | --- |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=CruzamentoThread&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/CruzamentoThread) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=CRUD-livraria&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/CRUD-livraria) |
+| [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=Sistema_Bancario_em_Python&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/Sistema_Bancario_em_Python) | [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=NotPolonesaReversa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/NotPolonesaReversa) |
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=ProjetoMedidorCaloricoAndroid&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/ProjetoMedidorCaloricoAndroid)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=ConvercaoDeBinariosPilha&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/Analise_de_Sentimento)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=HistoricoSim&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/CRUD-livraria) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=CruzamentoThread&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/CruzamentoThread)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=NotPolonesaReversa&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/NotPolonesaReversa) 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Yilumit&repo=fila-generica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Yilumit/Sistema_Bancario_em_Python)
 
 #### Status GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yilumit&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
